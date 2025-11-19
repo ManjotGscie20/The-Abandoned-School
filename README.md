@@ -5,4 +5,4 @@ is a python text-based adventure game in which a player navigates a supposedly h
 With various choices all leading to different outcomes, can you escape the abandoned school or will you become stuck with the secrets hidden inside?
 
 # **Installation**
-[https://www.python.org/downloads/](url)Python 3.7 is needed to play this game, please install Python.
+[Python 3.7]([url](https://www.python.org/downloads/)) is needed to play this game, please install Python.
